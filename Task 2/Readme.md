@@ -1,6 +1,6 @@
 # Real-Time Face Mask Detection
 
-Real-Time Face Mask Detection is a machine learning project developed by [Ahmed Hisham Fathy Hassabou](https://github.com/AhmedHishamFathy) as part of the internship at [SYNC Interns](https://github.com/SYNC-Interns). This project aims to detect whether a person is wearing a face mask in real-time using computer vision and machine learning techniques.
+Real-Time Face Mask Detection is a machine learning project developed by [Ahmed Hisham Fathy Hassabou](https://github.com/Ahmedhh1218) as part of the internship at [SYNC Interns](https://www.syncinterns.com/). This project aims to detect whether a person is wearing a face mask in real-time using computer vision and machine learning techniques.
 
 ## Table of Contents
 - [General Information](#general-information)
