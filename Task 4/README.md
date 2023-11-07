@@ -1,7 +1,5 @@
 # Sync-Machine-Learning-Task-4: Sign Language Classification
 
-![ASL Gesture](image.jpg)
-
 Welcome to the fourth and final task of the Sync Machine Learning internship! In this project, we'll explore the world of American Sign Language (ASL) and build a machine learning model to classify ASL gestures.
 
 ## Table of Contents
@@ -13,8 +11,6 @@ Welcome to the fourth and final task of the Sync Machine Learning internship! In
 - [Training and Evaluation](#training-and-evaluation)
 - [Inference and Predictions](#inference-and-predictions)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -54,6 +50,3 @@ The project's results, including model performance metrics and visualizations, c
 
 
 Happy coding and have fun exploring the world of ASL gestures!
-
-![ASL Gesture](image.jpg)
-
